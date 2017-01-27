@@ -1,0 +1,2 @@
+nav_bundle:pioneer_gazebo_ros/pioneer_control:pioneer_gazebo_ros/pioneer_description:pioneer_gazebo_ros/pioneer_gazebo:pioneer_gazebo_ros/pioneer_ros:scout_service:simple_navigation_goals
+-DCATKIN_DEVEL_PREFIX=/home/shawk/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shawk/catkin_ws/install -G Unix Makefiles

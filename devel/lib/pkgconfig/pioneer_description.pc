@@ -1,0 +1,8 @@
+prefix=/home/shawk/catkin_ws/devel
+
+Name: pioneer_description
+Description: Description of pioneer_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shawk/catkin_ws/devel/lib 
+Requires: 
